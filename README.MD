@@ -1,3 +1,7 @@
+![Django](https://img.shields.io/static/v1?label=Django&message=4.2.3&color=092E20&labelColor=white&logo=django&logoColor=092E20)
+![Jupyter](https://img.shields.io/static/v1?label=Jupyter&message=1.0.0&color=orange&labelColor=white&logo=jupyter)
+
+
 # Django in Jupyter
 
 ## Contents
