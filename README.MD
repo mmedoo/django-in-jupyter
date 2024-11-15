@@ -62,7 +62,7 @@ Here are some scenarios where this can be particularly useful:
 
 ### You can download the Notebook in this repository by running this command:
 ```bash
-wget https://raw.githubusercontent.com/mmedoo/django-in-jupyter/master/interact.ipynb
+wget https://raw.githubusercontent.com/mmedoo/django-in-jupyter/refs/heads/master/django.ipynb
 ```
 
 ### Or you can copy this cell to your Notebook:
